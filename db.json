@@ -1,5 +1,7 @@
 {
- 
+  "total": {
+    "count": 9
+  },
   "posts": [
     {
       "id": 1,
